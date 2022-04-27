@@ -1,0 +1,44 @@
+[
+    {
+        "closedcodeId":1,
+        "details":"Error Prueba 1",
+        "levelCode":1,
+        "parentId":0
+    },
+    {
+        "closedcodeId":2,
+        "details":"Error Prueba 2",
+        "levelCode":1,
+        "parentId":0
+    },
+    {
+        "closedcodeId":3,
+        "details":"Error Prueba 3",
+        "levelCode":1,
+        "parentId":0
+    },
+    {
+        "closedcodeId":4,
+        "details":"Error Prueba 4",
+        "levelCode":2,
+        "parentId":1
+    },
+    {
+        "closedcodeId":5,
+        "details":"Error Prueba 5",
+        "levelCode":2,
+        "parentId":1
+    },
+    {
+        "closedcodeId":6,
+        "details":"Error Prueba 6",
+        "levelCode":3,
+        "parentId":2
+    },
+    {
+        "closedcodeId":7,
+        "details":"Error Prueba 7",
+        "levelCode":3,
+        "parentId":2
+    }
+]
